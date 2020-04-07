@@ -5,4 +5,4 @@
 
 ## Índice de desafios
 
-- [01 - Planejando meus estudos]()
+- [01 - Planejando meus estudos](https://github.com/lucassbgomes/bootcamp-gostack-desafios/tree/master/desafio-01)
