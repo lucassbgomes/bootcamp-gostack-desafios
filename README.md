@@ -6,4 +6,4 @@
 ## Índice de desafios
 
 - [01 - Planejando meus estudos](https://github.com/lucassbgomes/bootcamp-gostack-desafios/tree/master/desafio-01)
-- [02 - Conceitos Node.js](https://github.com/lucassbgomes/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+- [02 - Conceitos Node.js](https://github.com/lucassbgomes/gostack-desafio-conceitos-nodejs)
